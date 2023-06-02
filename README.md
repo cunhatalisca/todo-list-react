@@ -7,7 +7,7 @@ The to-do list is a task management app.
 - React
 - Vite
 
-## Funcionalidades do Sistema
+## System Features
 
 - Insert task:
 - Choose type task;
