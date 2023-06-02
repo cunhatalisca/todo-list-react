@@ -1,6 +1,6 @@
 ## To-do List
 
-The medicine app is a task management app.
+The to-do list is a task management app.
 
 ## Technologies used ans tools:
 
@@ -13,7 +13,9 @@ The medicine app is a task management app.
 - Choose type task;
 - Delete task;
 
-## Link to-do list:
+## Initialize the project:
+
+- npm run dev
 
 
 
