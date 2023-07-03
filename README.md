@@ -10,7 +10,7 @@ Learning to automate tests
 
 ## Run the tests:
 
-- npx mocha tests.js
+- npx mocha test.js
 
 ## Conclusion:
 
