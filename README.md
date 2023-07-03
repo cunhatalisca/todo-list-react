@@ -1,21 +1,13 @@
-## To-do List
+## Automated tests
 
-The to-do list is a task management app.
+Learning to automate tests
 
 ## Technologies used ans tools:
 
-- React
-- Vite
+- Mocha
+- Axios
+- Nock
 
-## System Features
-
-- Insert task:
-- Choose type task;
-- Delete task;
-
-## Initialize the project:
-
-- npm run dev
 
 
 
